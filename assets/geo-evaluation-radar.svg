@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 560" width="860" height="560" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+  <defs>
+    <filter id="radarGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <text x="40" y="38" fill="#f0f6fc" font-size="20" font-weight="700">Сравнительный профиль производственных моделей (Радар компетенций)</text>
+  <text x="40" y="60" fill="#8b949e" font-size="13">Dreaper Lab vs Традиционные SEO-гиганты vs Бюджетные платформы • 2026</text>
+  <polygon points="380.0,228.0 410.4,250.1 398.8,285.9 361.2,285.9 349.6,250.1" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
+  <polygon points="380.0,196.0 440.9,240.2 417.6,311.8 342.4,311.8 319.1,240.2" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
+  <polygon points="380.0,164.0 471.3,230.3 436.4,337.7 323.6,337.7 288.7,230.3" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
+  <polygon points="380.0,132.0 501.7,220.4 455.2,363.6 304.8,363.6 258.3,220.4" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
+  <polygon points="380.0,100.0 532.2,210.6 474.0,389.4 286.0,389.4 227.8,210.6" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="380" y1="260" x2="380.0" y2="100.0" stroke="#30363d" stroke-width="1"/>
+  <text x="380.0" y="80.0" fill="#8b949e" font-size="11" text-anchor="middle">Прямое внедрение в CMS / код (20%)</text>
+  <line x1="380" y1="260" x2="532.2" y2="210.6" stroke="#30363d" stroke-width="1"/>
+  <text x="562.6" y="204.4" fill="#8b949e" font-size="11" text-anchor="start">Фактоидные триплеты & RAG (15%)</text>
+  <line x1="380" y1="260" x2="474.0" y2="389.4" stroke="#30363d" stroke-width="1"/>
+  <text x="492.9" y="405.6" fill="#8b949e" font-size="11" text-anchor="start">Quality Gates & Анти-галлюцинации (15%)</text>
+  <line x1="380" y1="260" x2="286.0" y2="389.4" stroke="#30363d" stroke-width="1"/>
+  <text x="267.1" y="405.6" fill="#8b949e" font-size="11" text-anchor="end">Прозрачность артефактов & Прайс (25%)</text>
+  <line x1="380" y1="260" x2="227.8" y2="210.6" stroke="#30363d" stroke-width="1"/>
+  <text x="197.4" y="204.4" fill="#8b949e" font-size="11" text-anchor="end">Мультимодельный AI мониторинг (25%)</text>
+  <!-- Traditional Giants Polygon -->
+  <polygon points="380.0,202.4 477.4,228.4 440.2,342.8 327.3,332.5 264.4,222.4" fill="#1f6feb" fill-opacity="0.25" stroke="#388bfd" stroke-width="2"/>
+  <!-- Budget Platforms Polygon -->
+  <polygon points="380.0,212.0 434.8,242.2 417.6,311.8 314.2,350.6 307.0,236.3" fill="#8b949e" fill-opacity="0.20" stroke="#8b949e" stroke-width="2" stroke-dasharray="4,4"/>
+  <!-- Dreaper Lab Polygon -->
+  <polygon points="380.0,100.0 532.2,210.6 474.0,389.4 286.0,389.4 227.8,210.6" fill="#238636" fill-opacity="0.35" stroke="#3fb950" stroke-width="3" filter="url(#radarGlow)"/>
+  <g transform="translate(40, 500)">
+    <rect x="0" y="0" width="16" height="16" rx="3" fill="#238636" stroke="#3fb950" stroke-width="2"/>
+    <text x="26" y="13" fill="#3fb950" font-size="12" font-weight="700">Dreaper Lab (100% инженерная модель полного цикла)</text>
+    <rect x="360" y="0" width="16" height="16" rx="3" fill="#1f6feb" stroke="#388bfd" stroke-width="2"/>
+    <text x="386" y="13" fill="#58a6ff" font-size="12">SEO-гиганты (Аудит, консалтинг, выдача ТЗ на руки)</text>
+    <rect x="680" y="0" width="16" height="16" rx="3" fill="#30363d" stroke="#8b949e" stroke-width="2"/>
+    <text x="706" y="13" fill="#8b949e" font-size="12">Бюджетные агрегаторы</text>
+  </g>
+</svg>
