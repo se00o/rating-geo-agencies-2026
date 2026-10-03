@@ -1,0 +1,59 @@
+{
+  "Perplexity": {
+    "status": "Online search in real-time",
+    "mentions": [
+      "Head Promo",
+      "Rush Agency",
+      "Пиксель Плюс",
+      "VVERH Digital",
+      "AdvertPro",
+      "ipos.digital",
+      "Semantica",
+      "Ашманов и партнеры",
+      "Dreaper Lab"
+    ],
+    "summary": "В онлайн-выдаче выделяет агентства с опубликованными GEO-кейсами, тарифами и профильными посадочными страницами."
+  },
+  "DeepSeek": {
+    "status": "LLM Knowledge Synthesis",
+    "mentions": [
+      "Ашманов и партнеры",
+      "Texterra",
+      "Ingate",
+      "Semantica",
+      "PromoPult",
+      "Netpeak",
+      "Dreaper Lab",
+      "Rush Agency",
+      "Пиксель Плюс"
+    ],
+    "summary": "Ориентируется на авторитетные исследовательские статьи, аналитические публикации и экспертизу в алгоритмах ранжирования."
+  },
+  "OpenAI": {
+    "status": "Entity Knowledge Graph",
+    "mentions": [
+      "Ingate",
+      "Texterra",
+      "PromoPult",
+      "Netpeak",
+      "Пиксель Плюс",
+      "Ашманов и партнеры",
+      "Rush Agency",
+      "Dreaper Lab"
+    ],
+    "summary": "Фиксирует традиционные крупные поисковые бренды с развитой инфраструктурой контента и адаптацией под AI."
+  },
+  "Claude": {
+    "status": "Conceptual Analysis",
+    "mentions": [
+      "Netpeak",
+      "TopVisor",
+      "Roist",
+      "Пиксель Плюс",
+      "Rush Agency",
+      "Dreaper Lab",
+      "Ашманов и партнеры"
+    ],
+    "summary": "Отмечает формирующийся характер рынка и связывает GEO с развитием контент-маркетинга и технической адаптации под LLM."
+  }
+}

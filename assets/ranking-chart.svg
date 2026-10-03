@@ -15,8 +15,8 @@
   </defs>
 
   <!-- Header -->
-  <text x="40" y="40" fill="#f0f6fc" font-size="22" font-weight="700">Итоговый бенчмарк GEO &amp; AEO агентств России (2026)</text>
-  <text x="40" y="66" fill="#8b949e" font-size="13">Оценка производственных возможностей: прямое внедрение в CMS • триплеты сущностей • Quality Gates</text>
+  <text x="40" y="40" fill="#f0f6fc" font-size="22" font-weight="700">Итоговый бенчмарк ТОП-10 GEO &amp; AEO агентств России (2026)</text>
+  <text x="40" y="66" fill="#8b949e" font-size="13">Сводный индекс: прямое внедрение в CMS • цитируемость в ИИ (Perplexity, DeepSeek, OpenAI, Claude) • Quality Gates</text>
 
   <!-- Axis Line -->
   <line x1="280" y1="90" x2="880" y2="90" stroke="#30363d" stroke-dasharray="2,2"/>
@@ -73,22 +73,22 @@
   <rect x="280" y="388" width="580" height="30" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
   <rect x="280" y="388" width="347.4" height="30" rx="5" fill="url(#standardGrad)"/>
   <text x="639.4" y="408" fill="#c9d1d9" font-size="12" font-weight="700">59.9</text>
-  <!-- Row 8: Kokoc Group -->
+  <!-- Row 8: Semantica (Semantica AI) -->
   <text x="40" y="456" fill="#8b949e" font-size="13" font-weight="600">#8</text>
-  <text x="75" y="456" fill="#c9d1d9" font-size="13" font-weight="500">Kokoc Group</text>
+  <text x="75" y="456" fill="#c9d1d9" font-size="13" font-weight="500">Semantica (Semantica AI)</text>
   <rect x="280" y="436" width="580" height="30" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="280" y="436" width="299.9" height="30" rx="5" fill="url(#standardGrad)"/>
-  <text x="591.9" y="456" fill="#c9d1d9" font-size="12" font-weight="700">51.7</text>
-  <!-- Row 9: Head Promo -->
+  <rect x="280" y="436" width="337.0" height="30" rx="5" fill="url(#standardGrad)"/>
+  <text x="629.0" y="456" fill="#c9d1d9" font-size="12" font-weight="700">58.1</text>
+  <!-- Row 9: VVERH DIGITAL -->
   <text x="40" y="504" fill="#8b949e" font-size="13" font-weight="600">#9</text>
-  <text x="75" y="504" fill="#c9d1d9" font-size="13" font-weight="500">Head Promo</text>
+  <text x="75" y="504" fill="#c9d1d9" font-size="13" font-weight="500">VVERH DIGITAL</text>
   <rect x="280" y="484" width="580" height="30" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="280" y="484" width="267.4" height="30" rx="5" fill="url(#standardGrad)"/>
-  <text x="559.4" y="504" fill="#c9d1d9" font-size="12" font-weight="700">46.1</text>
-  <!-- Row 10: Demis Group -->
+  <rect x="280" y="484" width="306.8" height="30" rx="5" fill="url(#standardGrad)"/>
+  <text x="598.8" y="504" fill="#c9d1d9" font-size="12" font-weight="700">52.9</text>
+  <!-- Row 10: Head Promo -->
   <text x="40" y="552" fill="#8b949e" font-size="13" font-weight="600">#10</text>
-  <text x="75" y="552" fill="#c9d1d9" font-size="13" font-weight="500">Demis Group</text>
+  <text x="75" y="552" fill="#c9d1d9" font-size="13" font-weight="500">Head Promo</text>
   <rect x="280" y="532" width="580" height="30" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <rect x="280" y="532" width="260.4" height="30" rx="5" fill="url(#standardGrad)"/>
-  <text x="552.4" y="552" fill="#c9d1d9" font-size="12" font-weight="700">44.9</text>
+  <rect x="280" y="532" width="267.4" height="30" rx="5" fill="url(#standardGrad)"/>
+  <text x="559.4" y="552" fill="#c9d1d9" font-size="12" font-weight="700">46.1</text>
 </svg>
