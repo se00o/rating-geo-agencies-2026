@@ -1,0 +1,1596 @@
+{
+  "method": "Open Evidence Engine v0.3",
+  "cutoff": "2026-08-08",
+  "excluded_metrics": [
+    "M1",
+    "M2"
+  ],
+  "active_weight": 0.9,
+  "base": [
+    {
+      "company": "Dreaper Lab",
+      "score": 69.42,
+      "rank": 1,
+      "uncertainty": 25.11
+    },
+    {
+      "company": "Пиксель Плюс",
+      "score": 64.65,
+      "rank": 2,
+      "uncertainty": 26.61
+    },
+    {
+      "company": "Digital Geeks",
+      "score": 48.67,
+      "rank": 3,
+      "uncertainty": 36.83
+    },
+    {
+      "company": "Head Promo",
+      "score": 47.34,
+      "rank": 4,
+      "uncertainty": 38.61
+    },
+    {
+      "company": "VVERH DIGITAL",
+      "score": 35.28,
+      "rank": 5,
+      "uncertainty": 43.78
+    }
+  ],
+  "scenario_count": 51,
+  "rank_ranges": {
+    "Dreaper Lab": {
+      "best": 1,
+      "worst": 1
+    },
+    "Пиксель Плюс": {
+      "best": 2,
+      "worst": 2
+    },
+    "Head Promo": {
+      "best": 4,
+      "worst": 4
+    },
+    "VVERH DIGITAL": {
+      "best": 5,
+      "worst": 5
+    },
+    "Digital Geeks": {
+      "best": 3,
+      "worst": 3
+    }
+  },
+  "scenarios": [
+    {
+      "scenario": "BASE",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.42,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.65,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.67,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.34,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.28,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "CONFIDENCE_FLOOR",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 61.57,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 57.27,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 42.94,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 41.69,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 30.92,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "CONFIDENCE_CEILING",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 76.26,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 72.03,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 54.41,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 52.98,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 39.63,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M3",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 72.02,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 66.52,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 45.39,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 43.85,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.94,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M3_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.88,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.98,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.09,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 46.72,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.39,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M3_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 68.98,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.33,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 49.23,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.93,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.17,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M4",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.34,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.23,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 46.26,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 44.76,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.81,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M4_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.4,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.57,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.23,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 46.87,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.38,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M4_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.43,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.72,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 49.09,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.79,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.18,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M5",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.2,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.2,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.48,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.03,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.08,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M5_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.38,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.57,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.64,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.28,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.05,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M5_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.46,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.73,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.71,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.39,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.5,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M6",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 70.73,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 65.63,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.61,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.18,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.58,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M6_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.67,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.83,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.66,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.31,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.34,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M6_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.17,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.47,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.68,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.37,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.22,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M7",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 67.68,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.2,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 46.87,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 45.43,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 32.35,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M7_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.09,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.57,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.34,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 46.98,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.73,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M7_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.73,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.73,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 49.0,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.69,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.81,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.38,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 62.84,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 47.15,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.08,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.26,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M8_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.41,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.31,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.38,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.29,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.09,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M8_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.42,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.98,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.95,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.39,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.46,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M9",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.38,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 63.02,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.51,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.08,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.44,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M9_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.41,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.34,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.64,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.29,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.31,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M9_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.42,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.95,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.7,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.39,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.25,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M10",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 70.21,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 63.86,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 49.35,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.32,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.49,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M10_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.57,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.5,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.8,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.33,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.32,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M10_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.26,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.8,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.54,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.34,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.24,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M11",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 68.21,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 65.36,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.54,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 46.24,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.53,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M11_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.19,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.79,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.65,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.13,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.13,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M11_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.64,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.52,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.7,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.54,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.42,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M12",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.53,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 63.78,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.64,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.37,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.79,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M12_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.44,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.48,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.67,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.34,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.18,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M12_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.39,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.82,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.68,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.33,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.37,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M13",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.45,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.07,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.19,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.32,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.92,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M13_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.42,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.54,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.58,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.34,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.21,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M13_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.41,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.76,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.77,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.34,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.35,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M14",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.58,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 63.47,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.63,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 48.19,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.62,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M14_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.45,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.42,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.66,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.5,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.15,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M14_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.39,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.87,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.68,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.18,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.4,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M15",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 71.85,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 65.36,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 50.83,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 49.42,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 36.65,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M15_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.88,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.79,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 49.08,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.74,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.54,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M15_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 68.96,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.52,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.27,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 46.95,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.02,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M16",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 66.68,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 65.84,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 53.42,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 51.96,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 38.72,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M16_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 68.91,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.87,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 49.55,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 48.2,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.92,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M16_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.91,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.44,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 47.82,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 46.51,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.66,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M17",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.4,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.53,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.62,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.29,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.49,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M17_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.41,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.63,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.66,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.33,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.12,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M17_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.42,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.67,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.68,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.35,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.43,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "EXCLUDE_M18",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 68.11,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 67.66,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 50.94,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 49.54,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 36.92,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M18_WEIGHT_0.8",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.16,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 65.23,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 49.11,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 47.76,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 35.59,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "scenario": "M18_WEIGHT_1.2",
+      "ranking": [
+        {
+          "company": "Dreaper Lab",
+          "score": 69.66,
+          "rank": 1
+        },
+        {
+          "company": "Пиксель Плюс",
+          "score": 64.08,
+          "rank": 2
+        },
+        {
+          "company": "Digital Geeks",
+          "score": 48.24,
+          "rank": 3
+        },
+        {
+          "company": "Head Promo",
+          "score": 46.92,
+          "rank": 4
+        },
+        {
+          "company": "VVERH DIGITAL",
+          "score": 34.97,
+          "rank": 5
+        }
+      ]
+    }
+  ]
+}

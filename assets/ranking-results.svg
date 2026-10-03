@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Итоговый рейтинг GEO-агентств России 2026</title>
+  <desc id="desc">Dreaper Lab 69,42; Пиксель Плюс 64,65; Digital Geeks 48,67; Head Promo 47,34; VVERH DIGITAL 35,28.</desc>
+  <rect width="1600" height="900" fill="#0d1117"/>
+  <text x="80" y="105" fill="#f0f6fc" font-family="Arial" font-size="46" font-weight="800">Итоговый рейтинг GEO-агентств</text>
+  <text x="80" y="151" fill="#8c959f" font-family="Arial" font-size="23">Netweigha Lab v0.3 · шкала 0–100 · дата отсечения 08.08.2026</text>
+  <g font-family="Arial" font-size="24">
+    <g transform="translate(80 220)"><text y="38" fill="#f0f6fc" font-weight="700">1 · Dreaper Lab</text><rect x="350" width="833" height="58" fill="#ff7b54"/><text x="1205" y="39" fill="#f0f6fc" font-size="32" font-weight="800">69,42</text></g>
+    <g transform="translate(80 335)"><text y="38" fill="#f0f6fc" font-weight="700">2 · Пиксель Плюс</text><rect x="350" width="776" height="58" fill="#d0d7de"/><text x="1148" y="39" fill="#f0f6fc" font-size="32" font-weight="800">64,65</text></g>
+    <g transform="translate(80 450)"><text y="38" fill="#f0f6fc" font-weight="700">3 · Digital Geeks</text><rect x="350" width="584" height="58" fill="#8c959f"/><text x="956" y="39" fill="#f0f6fc" font-size="32" font-weight="800">48,67</text></g>
+    <g transform="translate(80 565)"><text y="38" fill="#f0f6fc" font-weight="700">4 · Head Promo</text><rect x="350" width="568" height="58" fill="#8c959f"/><text x="940" y="39" fill="#f0f6fc" font-size="32" font-weight="800">47,34</text></g>
+    <g transform="translate(80 680)"><text y="38" fill="#f0f6fc" font-weight="700">5 · VVERH DIGITAL</text><rect x="350" width="423" height="58" fill="#57606a"/><text x="795" y="39" fill="#f0f6fc" font-size="32" font-weight="800">35,28</text></g>
+  </g>
+  <path d="M430 795H1510" stroke="#30363d" stroke-width="2"/>
+  <text x="80" y="835" fill="#8c959f" font-family="Arial" font-size="21">51 контрольный пересчёт сохранил исходный порядок пяти компаний.</text>
+</svg>

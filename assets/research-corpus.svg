@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Корпус исследования рейтинга GEO-агентств</title>
+  <desc id="desc">Пять компаний, 67 доказательных записей, 56 уникальных веб-адресов, 347 диагностических вопросов, 18 метрик, 16 балльных факторов и 80 оценок.</desc>
+  <rect width="1600" height="720" fill="#f6f8fa"/>
+  <rect x="56" y="52" width="1488" height="616" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+  <text x="96" y="125" fill="#1f2328" font-family="Arial" font-size="28" font-weight="700" letter-spacing="3">КОРПУС ИССЛЕДОВАНИЯ</text>
+  <text x="96" y="183" fill="#57606a" font-family="Arial" font-size="24">Дата отсечения: 8 августа 2026 года</text>
+  <g font-family="Arial">
+    <g transform="translate(96 245)"><rect width="430" height="150" fill="#0d1117"/><text x="28" y="68" fill="#ff7b54" font-size="58" font-weight="800">5</text><text x="112" y="63" fill="#f0f6fc" font-size="28" font-weight="700">компаний</text><text x="28" y="112" fill="#8c959f" font-size="20">единая сравнительная выборка</text></g>
+    <g transform="translate(585 245)"><rect width="430" height="150" fill="#0d1117"/><text x="28" y="68" fill="#ff7b54" font-size="58" font-weight="800">67</text><text x="132" y="63" fill="#f0f6fc" font-size="28" font-weight="700">записей</text><text x="28" y="112" fill="#8c959f" font-size="20">56 уникальных веб-адресов</text></g>
+    <g transform="translate(1074 245)"><rect width="430" height="150" fill="#0d1117"/><text x="28" y="68" fill="#ff7b54" font-size="58" font-weight="800">347</text><text x="165" y="63" fill="#f0f6fc" font-size="28" font-weight="700">вопросов</text><text x="28" y="112" fill="#8c959f" font-size="20">исходный диагностический банк</text></g>
+    <g transform="translate(96 430)"><rect width="430" height="150" fill="#ffffff" stroke="#1f2328"/><text x="28" y="68" fill="#cf4a25" font-size="58" font-weight="800">18</text><text x="132" y="63" fill="#1f2328" font-size="28" font-weight="700">метрик</text><text x="28" y="112" fill="#57606a" font-size="20">после нормализации критериев</text></g>
+    <g transform="translate(585 430)"><rect width="430" height="150" fill="#ffffff" stroke="#1f2328"/><text x="28" y="68" fill="#cf4a25" font-size="58" font-weight="800">16</text><text x="132" y="63" fill="#1f2328" font-size="28" font-weight="700">факторов</text><text x="28" y="112" fill="#57606a" font-size="20">участвуют в итоговом балле</text></g>
+    <g transform="translate(1074 430)"><rect width="430" height="150" fill="#ffffff" stroke="#1f2328"/><text x="28" y="68" fill="#cf4a25" font-size="58" font-weight="800">80</text><text x="132" y="63" fill="#1f2328" font-size="28" font-weight="700">оценок</text><text x="28" y="112" fill="#57606a" font-size="20">компания × балльная метрика</text></g>
+  </g>
+</svg>

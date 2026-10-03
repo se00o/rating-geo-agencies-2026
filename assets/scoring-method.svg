@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Схема расчёта рейтинга Netweigha Lab</title>
+  <desc id="desc">Датированный источник связывается с фактом, рубрикой от нуля до пяти, коэффициентом достоверности и взвешенным итоговым баллом.</desc>
+  <rect width="1600" height="720" fill="#f6f8fa"/>
+  <text x="74" y="100" fill="#1f2328" font-family="Arial" font-size="42" font-weight="800">От источника к итоговому баллу</text>
+  <text x="74" y="145" fill="#57606a" font-family="Arial" font-size="23">Воспроизводимая цепочка Netweigha Lab v0.3</text>
+  <g font-family="Arial">
+    <g transform="translate(70 230)"><rect width="280" height="210" fill="#0d1117"/><text x="28" y="55" fill="#ff7b54" font-size="19" font-weight="700">01</text><text x="28" y="105" fill="#f0f6fc" font-size="28" font-weight="700">Источник</text><text x="28" y="145" fill="#8c959f" font-size="19">URL, дата, тип</text><text x="28" y="176" fill="#8c959f" font-size="19">и граница факта</text></g>
+    <path d="M370 335H420" stroke="#cf4a25" stroke-width="5"/><path d="M420 335l-18-12v24z" fill="#cf4a25"/>
+    <g transform="translate(440 230)"><rect width="280" height="210" fill="#ffffff" stroke="#1f2328" stroke-width="2"/><text x="28" y="55" fill="#cf4a25" font-size="19" font-weight="700">02</text><text x="28" y="105" fill="#1f2328" font-size="28" font-weight="700">Рубрика 0–5</text><text x="28" y="145" fill="#57606a" font-size="19">Единое правило</text><text x="28" y="176" fill="#57606a" font-size="19">для пяти компаний</text></g>
+    <path d="M740 335H790" stroke="#cf4a25" stroke-width="5"/><path d="M790 335l-18-12v24z" fill="#cf4a25"/>
+    <g transform="translate(810 230)"><rect width="280" height="210" fill="#ffffff" stroke="#1f2328" stroke-width="2"/><text x="28" y="55" fill="#cf4a25" font-size="19" font-weight="700">03</text><text x="28" y="105" fill="#1f2328" font-size="28" font-weight="700">Достоверность</text><text x="28" y="145" fill="#57606a" font-size="19">Confidence</text><text x="28" y="176" fill="#57606a" font-size="19">конкретного источника</text></g>
+    <path d="M1110 335H1160" stroke="#cf4a25" stroke-width="5"/><path d="M1160 335l-18-12v24z" fill="#cf4a25"/>
+    <g transform="translate(1180 230)"><rect width="350" height="210" fill="#0d1117"/><text x="28" y="55" fill="#ff7b54" font-size="19" font-weight="700">04</text><text x="28" y="105" fill="#f0f6fc" font-size="28" font-weight="700">Взвешенный итог</text><text x="28" y="145" fill="#8c959f" font-size="19">Вес метрики × оценка</text><text x="28" y="176" fill="#8c959f" font-size="19">с поправкой confidence</text></g>
+  </g>
+  <rect x="70" y="510" width="1460" height="120" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+  <text x="105" y="562" fill="#1f2328" font-family="Arial" font-size="25" font-weight="700">Оценка метрики = (балл / 5) × (0,5 + 0,5 × confidence)</text>
+  <text x="105" y="603" fill="#57606a" font-family="Arial" font-size="22">Итоговый балл = 100 × сумма(вес метрики × оценка метрики)</text>
+</svg>

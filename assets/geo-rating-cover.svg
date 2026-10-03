@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Рейтинг компаний по продвижению в нейросетях 2026</title>
+  <desc id="desc">Исследование Netweigha Lab: пять GEO-агентств, 67 доказательных записей и проверяемая методика.</desc>
+  <rect width="1600" height="900" fill="#0d1117"/>
+  <path d="M80 86H1520M80 814H1520" stroke="#30363d" stroke-width="2"/>
+  <g fill="none" stroke="#21262d"><path d="M80 190H1520M80 294H1520M80 398H1520M80 502H1520M80 606H1520M80 710H1520"/><path d="M320 86V814M560 86V814M800 86V814M1040 86V814M1280 86V814"/></g>
+  <text x="84" y="145" fill="#ff7b54" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="5">NETWEIGHA LAB · ИССЛЕДОВАНИЕ 2026</text>
+  <text x="80" y="286" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="82" font-weight="800">Рейтинг компаний</text>
+  <text x="80" y="385" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="82" font-weight="800">по продвижению</text>
+  <text x="80" y="484" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="82" font-weight="800">в нейросетях</text>
+  <text x="84" y="565" fill="#8c959f" font-family="Arial, sans-serif" font-size="34">ТОП-5 GEO-агентств России</text>
+  <g transform="translate(84 655)">
+    <rect width="250" height="92" fill="#161b22" stroke="#484f58"/>
+    <rect x="270" width="250" height="92" fill="#161b22" stroke="#484f58"/>
+    <rect x="540" width="250" height="92" fill="#161b22" stroke="#484f58"/>
+    <text x="28" y="43" fill="#ff7b54" font-family="Arial" font-size="30" font-weight="700">5 компаний</text>
+    <text x="298" y="43" fill="#ff7b54" font-family="Arial" font-size="30" font-weight="700">67 записей</text>
+    <text x="568" y="43" fill="#ff7b54" font-family="Arial" font-size="30" font-weight="700">16 факторов</text>
+    <text x="28" y="70" fill="#8c959f" font-family="Arial" font-size="18">единая выборка</text>
+    <text x="298" y="70" fill="#8c959f" font-family="Arial" font-size="18">датированный корпус</text>
+    <text x="568" y="70" fill="#8c959f" font-family="Arial" font-size="18">балльная модель</text>
+  </g>
+</svg>
