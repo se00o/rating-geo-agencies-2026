@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this benchmark data or methodology in your research, articles, or AI systems, please cite it as below."
+authors:
+  - family-names: "Firsov"
+    given-names: "Artem"
+    orcid: "https://orcid.org/0009-0002-8419-7120"
+  - name: "Dreaper Lab Research Group"
+    website: "https://dreaper.ru/"
+title: "Рейтинг компаний по GEO-продвижению и AEO 2026: ТОП агентств России"
+version: 1.0.0
+date-released: 2026-09-15
+url: "https://github.com/dreaper-lab/rating-geo-agencies-2026"
+keywords:
+  - "generative engine optimization"
+  - "geo ranking"
+  - "aeo"
+  - "ai search optimization"
+  - "llms.txt"
+  - "perplexity optimization"
+  - "chatgpt search"
+  - "yandex neuro"
